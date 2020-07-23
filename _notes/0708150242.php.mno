@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ptype" value="name:type_id;datatype:int,name:type_name;datatype:blob" />
+	<infoitem key="UD_city" value="name:citid;datatype:int,name:citname;datatype:blob" />
+	<infoitem key="UD_district" value="name:dstid;datatype:int,name:dstname;datatype:blob" />
+	<infoitem key="UD_state" value="name:stid;datatype:int,name:stname;datatype:blob" />
+</info>

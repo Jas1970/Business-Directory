@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_jtype" value="name:jtype_id;datatype:int,name:jtype_name;datatype:blob" />
+	<infoitem key="UD_jgroup" value="name:grp_id;datatype:int,name:grp_name;datatype:blob" />
+	<infoitem key="UD_jinds" value="name:inds_id;datatype:int,name:inds_name;datatype:blob" />
+	<infoitem key="UD_jqual" value="name:jqual_id;datatype:int,name:jqual_name;datatype:blob" />
+	<infoitem key="UD_city" value="name:citid;datatype:int,name:citname;datatype:blob" />
+</info>
